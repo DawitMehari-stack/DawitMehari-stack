@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DawitMehari-stack
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...Python.
+- 💞️ I’m looking to collaborate on ...Python, Lua with LOVE2d.
 - 📫 How to reach me ...Tel : +251 935 314 141
 -                       Email : davemehari@gmail.com
 -                              
