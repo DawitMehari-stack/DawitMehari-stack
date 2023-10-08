@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @DawitMehari-stack..., 
-- 💞️ I’m looking to collaborate on....
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on....Development
+- 📫 How to reach me ...+251 935 31 41 41
+-                   m.kingdave@yahoo.com
+-                   Addis Ababa, Ethiopia.
 -                              
 - 
 
