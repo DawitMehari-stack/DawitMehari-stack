@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DawitMehari-stack..., 
+- 👋 Hi, I’m Dave..., 
 - 💞️ I’m looking to collaborate on....Development
 - 📫 How to reach me ...+251 935 31 41 41
 -                   m.kingdave@yahoo.com
