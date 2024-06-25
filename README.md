@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Dawit Mehari Fitur, I developed a game called MIN(a number puzzle game).
-- I am multi player game developer  ..., 
-- 💞️ I’m looking to collaborate on....Game development(python, pycharm)
+- 👋 Hi, I’m Dawit Mehari Fitur, I developed a game called MIN(a number puzzle game, it were in Amazonappstore).
+  ..., 
+- 💞️ I’m looking to collaborate on....Game development(python, pycharm) and development
 - 📫 How to reach me ...
 -                   Twitter
                      https://t.com/davemehari2
